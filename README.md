@@ -68,7 +68,4 @@ monsters not display damage it took as expected, tank damage in each frame,
 even small deviation in variable names, then music playback error,..
 
 After that, make the game balance neither too easy nor too hard, is also the difficult part of the project.
-After 7 days of continuous hardwork, I finally finished it.
-
-Thank CS50's Team!!! This will be the stepping stone for my growth!
-Thank for CS50 team's hard work to create a wonderful course!!!
+After 7 days of continuous hardwork, I finally finished it. Thank CS50's Team!
